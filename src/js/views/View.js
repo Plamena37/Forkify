@@ -12,7 +12,6 @@ export default class View {
    * @author Plamena Ivanova
    * @todo Finish implementation
    */
-
   /////////////////////////////////////////////////////////////////////////////////
   render(data, render = true) {
     if (!data || (Array.isArray(data) && data.length === 0))
