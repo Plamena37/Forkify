@@ -15,6 +15,7 @@
 > - Parcel
 > - Forkify API v2
 > - MVC architecture
+> - SCSS
 
 ### 🔗 Here are some previews 🍕:
 ![Default](https://i.imgur.com/oNe4HvI.png)
